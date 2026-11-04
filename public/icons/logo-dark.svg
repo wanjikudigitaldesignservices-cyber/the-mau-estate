@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" fill="none">
+  <!-- Deep Forest Emblem Left -->
+  <g transform="translate(10, 10)">
+    <circle cx="30" cy="30" r="28" stroke="#202B26" stroke-width="2" opacity="0.9"/>
+    <circle cx="30" cy="30" r="24" stroke="#202B26" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.4"/>
+    <!-- Horizon -->
+    <path d="M14 38 C19 30, 26 23, 30 23 C34 23, 41 30, 46 38" stroke="#202B26" stroke-width="2" stroke-linecap="round"/>
+    <path d="M19 38 C23 33, 27 29, 30 29 C33 29, 37 33, 41 38" stroke="#202B26" stroke-width="1.2" stroke-linecap="round" opacity="0.75"/>
+    <!-- Sun -->
+    <circle cx="30" cy="17" r="3.5" fill="#202B26"/>
+    <line x1="12" y1="41" x2="48" y2="41" stroke="#202B26" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Typography Right -->
+  <text x="82" y="38" font-family="'Cormorant Garamond', Georgia, serif" font-size="26" font-weight="600" fill="#202B26" letter-spacing="4">THE MAU ESTATE</text>
+  <text x="84" y="55" font-family="'Manrope', sans-serif" font-size="8.5" font-weight="600" fill="#5C6258" letter-spacing="3.5">MAU NAROK • KENYA</text>
+</svg>

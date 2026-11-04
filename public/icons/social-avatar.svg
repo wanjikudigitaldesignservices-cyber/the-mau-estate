@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Deep Forest Background -->
+  <rect width="512" height="512" fill="#202B26"/>
+  
+  <!-- Subtle Ornamental Inner Border -->
+  <rect x="24" y="24" width="464" height="464" stroke="#B69A70" stroke-width="1.5" opacity="0.4"/>
+  <rect x="36" y="36" width="440" height="440" stroke="#B69A70" stroke-width="0.75" stroke-dasharray="4 4" opacity="0.25"/>
+
+  <!-- Outer Medallion -->
+  <circle cx="256" cy="220" r="140" stroke="#B69A70" stroke-width="3" opacity="0.85"/>
+  <circle cx="256" cy="220" r="124" stroke="#B69A70" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.5"/>
+  
+  <!-- Mau Narok Highlands Ridge -->
+  <path d="M168 250 C194 208, 230 178, 256 178 C282 178, 318 208, 344 250" stroke="#B69A70" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M198 250 C216 226, 238 210, 256 210 C274 210, 296 226, 314 250" stroke="#B69A70" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- Morning Sun -->
+  <circle cx="256" cy="142" r="16" fill="#B69A70"/>
+  <line x1="256" y1="112" x2="256" y2="122" stroke="#B69A70" stroke-width="3" stroke-linecap="round"/>
+  <line x1="234" y1="120" x2="242" y2="126" stroke="#B69A70" stroke-width="3" stroke-linecap="round"/>
+  <line x1="278" y1="120" x2="270" y2="126" stroke="#B69A70" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Horizon Base -->
+  <line x1="160" y1="262" x2="352" y2="262" stroke="#B69A70" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Brand Monogram inside emblem -->
+  <text x="256" y="302" font-family="'Cormorant Garamond', Georgia, serif" font-size="34" font-weight="600" fill="#E9E2D5" text-anchor="middle" letter-spacing="4">EST. 2026</text>
+
+  <!-- Typography underneath -->
+  <text x="256" y="405" font-family="'Cormorant Garamond', Georgia, serif" font-size="44" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">THE MAU ESTATE</text>
+  <text x="256" y="440" font-family="'Manrope', sans-serif" font-size="14" font-weight="500" fill="#B69A70" text-anchor="middle" letter-spacing="6">MAU NAROK • KENYA</text>
+</svg>

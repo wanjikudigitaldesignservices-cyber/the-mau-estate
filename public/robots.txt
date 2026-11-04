@@ -1,0 +1,31 @@
+# The Mau Estate Robots Exclusion File
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /accommodation
+Allow: /accommodation/*
+Allow: /dining
+Allow: /experiences
+Allow: /gallery
+Allow: /offers
+Allow: /offers/*
+Allow: /meetings-and-events
+Allow: /weddings-and-celebrations
+Allow: /contact
+Allow: /faq
+Allow: /privacy-policy
+Allow: /terms-and-conditions
+Allow: /cancellation-policy
+
+# Disallow private user accounts, checkout confirmation and administrative areas
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /account
+Disallow: /account/*
+Disallow: /booking/confirmation/*
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password
+
+Sitemap: https://themauestate.com/sitemap.xml
